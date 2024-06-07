@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QLayout
 
 
 class FlowLayout(QLayout):
-    def __init__(self, parent=None, orientation=Qt.Horizontal, margin=0, spacing=2):
+    def __init__(self, parent=None, orientation=Qt.Horizontal, margin=4, spacing=4):
         super().__init__(parent)
         self.orientation = orientation
         self.spacing = spacing
