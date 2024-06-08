@@ -8,7 +8,7 @@ This custom layout, compatible with PyQt, PySide, and QtPy applications, offers 
 ![Screenshot 2024-06-08 054748](https://github.com/chinmaykrishnroy/PyQt5DynamicFlowLayout/assets/65699140/1dd4c04b-2a03-48d7-ac62-0c8f84c69ce3)
 ![Screenshot 2024-06-08 054813](https://github.com/chinmaykrishnroy/PyQt5DynamicFlowLayout/assets/65699140/4feec973-8424-4bcc-a86e-fe56ab96f5e5)
 ![Screenshot 2024-06-08 054851](https://github.com/chinmaykrishnroy/PyQt5DynamicFlowLayout/assets/65699140/b3293684-1010-4888-bc49-f523a6773ac2)
-
+<br><br>
 ### Flow Layout
 ![Screenshot 2024-06-08 054431](https://github.com/chinmaykrishnroy/PyQt5DynamicFlowLayout/assets/65699140/c06a6b9c-e1cd-4f00-8a78-e8a20a3b2818)
 ![Screenshot 2024-06-08 054459](https://github.com/chinmaykrishnroy/PyQt5DynamicFlowLayout/assets/65699140/bd46b1c6-c0a5-4c90-ac9f-497224be5f6f)
