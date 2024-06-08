@@ -1,7 +1,7 @@
 from PyQt5.QtWidgets import QLayout, QSizePolicy, QWidget, QApplication
 from PyQt5.QtCore import QRect, QSize, QPoint, Qt
 
-class AutoGridLayout(QLayout):
+class FlowLayout(QLayout):
     def __init__(self, parent=None, spacing=0):
         super().__init__(parent)
         self.setSpacing(spacing)
@@ -103,7 +103,7 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
 
     mainWidget = QWidget()
-    layout = AutoGridLayout()
+    layout = FlowLayout()
 
     for i in range(10):
         button = QPushButton(f"Button {i}")
